@@ -69,47 +69,6 @@ The project combines a modern web interface, backend services, and AI-assisted c
 
 ### 1. Clone the Repository
 
-git clone https://github.com/bepro45/INDUSTRIYARD.git
+```bash
+git clone [https://github.com/bepro45/INDUSTRIYARD.git](https://github.com/bepro45/INDUSTRIYARD.git)
 cd INDUSTRIYARD
-
-### 2. Start the Backend
-
-cd backend
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-
-*(Backend runs at: http://127.0.0.1:8000)*
-
-### 3. Start the Frontend
-
-cd frontend
-npm install
-npm run dev
-
-*(Open the local localhost URL displayed in your terminal)*
-
-**Prerequisites:** Python, Node.js, npm and Git.
-
-## 🌐 Live Application
-
-| Service           | Link                                                  |
-| ----------------- | ----------------------------------------------------- |
-| Website           | [INDUSTRIYARD](https://industryard.vercel.app/)       |
-| Backend API       | [API Server](https://industryard.onrender.com/)       |
-| API Documentation | [FastAPI Docs](https://industryard.onrender.com/docs) |
-
-## 🔮 Future Improvements
-
-- Enhanced AI-powered safety assistance.
-- Improved safety reports and analytics.
-- User authentication and role-based access.
-- Better data management and security.
-- Additional industrial safety features.
-
-## ⚠️ Disclaimer
-
-INDUSTRIYARD is a developing project and prototype, not a certified industrial safety system. AI-generated information should be reviewed by qualified safety professionals before being used for workplace safety decisions.
-
----
