@@ -1,4 +1,4 @@
-# INDUSTRIYARD
+# INDUSTRYARD
 
 ### Smart Safety. Stronger Workplaces.
 
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://industryard.vercel.app/">🌐 Live Demo</a> · 
   <a href="https://industryard.onrender.com/docs">⚙️ API Documentation</a> · 
-  <a href="https://github.com/bepro45/INDUSTRIYARD">💻 GitHub Repository</a>
+  <a href="https://github.com/bepro45/INDUSTRYARD">💻 GitHub Repository</a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 Workplace safety is one of the most important aspects of every industry. Even a small unsafe condition or near-miss incident can lead to a serious accident if it goes unnoticed.
 
-**INDUSTRIYARD** is an AI-assisted industrial safety management platform designed to make workplace safety smarter, simpler, and more accessible through technology.
+**INDUSTRYARD** is an AI-assisted industrial safety management platform designed to make workplace safety smarter, simpler, and more accessible through technology.
 
 The project combines a modern web interface, backend services, and AI-assisted capabilities to support workplace safety activities and safety-related information.
 
@@ -72,8 +72,8 @@ The project combines a modern web interface, backend services, and AI-assisted c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bepro45/INDUSTRIYARD.git
-cd INDUSTRIYARD
+git clone https://github.com/bepro45/INDUSTRYARD.git
+cd INDUSTRYARD
 ```
 
 ### 2. Start the Backend
@@ -104,7 +104,7 @@ Open the local URL displayed in your terminal (usually <http://localhost:5173>).
 
 | Service           | Link                                                  |
 | ----------------- | ----------------------------------------------------- |
-| Website           | [INDUSTRIYARD](https://industryard.vercel.app/)       |
+| Website           | [INDUSTRYARD](https://industryard.vercel.app/)       |
 | Backend API       | [API Server](https://industryard.onrender.com/)       |
 | API Documentation | [FastAPI Docs](https://industryard.onrender.com/docs) |
 
@@ -118,11 +118,10 @@ Open the local URL displayed in your terminal (usually <http://localhost:5173>).
 
 ## ⚠️ Disclaimer
 
-INDUSTRIYARD is a developing project and prototype, not a certified industrial safety system. AI-generated information should be reviewed by qualified safety professionals before being used for workplace safety decisions.
+INDUSTRYARD is a developing project and prototype, not a certified industrial safety system. AI-generated information should be reviewed by qualified safety professionals before being used for workplace safety decisions.
 
 ---
 
 <p align="center">
-  <strong>INDUSTRIYARD</strong><br/>
-  Smart Safety. Stronger Workplaces. 🚀
-</p>
+  <strong>THANK YOU.</strong><br/>
+
