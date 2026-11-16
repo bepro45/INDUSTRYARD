@@ -1,6 +1,6 @@
-# NearMiss AI
+# INDUSTRYARD
 
-Industrial Near-Miss Memory Agent — a prototype that records reported near-misses, retains experience in Hindsight, recalls relevant history, and presents evidence for qualified human review.
+Industrial Near-miss Memory Agent — a prototype that records reported near-misses, retains experience in Hindsight, recalls relevant history, and presents evidence for qualified human review.
 
 > **Safety:** Prototype only. Not certified and not a diagnostic tool. It never authorizes equipment restart. All bundled sample records are synthetic.
 
