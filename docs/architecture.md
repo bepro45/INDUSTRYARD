@@ -1,0 +1,1 @@
+# Architecture\n\nReact/Vite UI → FastAPI → SQLite structured incident records + Hindsight persistent memory → optional Groq synthesis → UI with actual retrieved evidence. SQLite is the structured source of truth; Hindsight is the experience-memory layer. LLM output is advisory and never a diagnosis.

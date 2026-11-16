@@ -1,0 +1,1 @@
+All examples are fictional and for software testing only. They are not actual incident reports, measurements, diagnoses, or engineering advice. Repeated reports do not establish a shared root cause. Never use this dataset for operational safety decisions.

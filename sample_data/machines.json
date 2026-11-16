@@ -1,0 +1,32 @@
+[
+  {
+    "machine_id": "M-017",
+    "machine_type": "Industrial motor",
+    "location": "Synthetic Unit A",
+    "operating_hours": 2400
+  },
+  {
+    "machine_id": "M-018",
+    "machine_type": "Cooling pump",
+    "location": "Synthetic Unit B",
+    "operating_hours": 1800
+  },
+  {
+    "machine_id": "M-019",
+    "machine_type": "Conveyor drive",
+    "location": "Synthetic Unit A",
+    "operating_hours": 3100
+  },
+  {
+    "machine_id": "M-020",
+    "machine_type": "Air compressor",
+    "location": "Synthetic Unit C",
+    "operating_hours": 1250
+  },
+  {
+    "machine_id": "M-021",
+    "machine_type": "Packaging motor",
+    "location": "Synthetic Unit B",
+    "operating_hours": 900
+  }
+]
